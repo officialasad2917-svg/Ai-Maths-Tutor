@@ -1,0 +1,1 @@
+Replace the existing index.html in the ROOT of your GitHub repository with this index.html, then commit changes. The ZIP includes a README. It contains solved Exercise 1.1 and a working interactive quiz. Check repeating-decimal bar notation against your textbook.
